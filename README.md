@@ -20,5 +20,4 @@
 + ### Network Connections
  #### https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=734
 
-## my leetcode stats
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=0817001)](https://github.com/KnlnKS/leetcode-stats)
+
